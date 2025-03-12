@@ -1,4 +1,5 @@
-Login and Signup System in C++
+# Login and Signup System in C++
+
 This is a simple C++ console-based login and signup system that allows users to:
 
 Sign up by creating an account with a username, email, and password.
